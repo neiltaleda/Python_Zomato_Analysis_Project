@@ -49,7 +49,7 @@ plt.xlabel("Type of Restaurant")
 plt.show()
 ```
 ### Results
-![Typeof_Restaurants_Majority_Order_From](images\restaurant_types.png)
+![Typeof_Restaurants_Majority_Order_From](images/restaurant_types.png)
 
 ### Insights
 - Dining restaurants are the most popular among customers, receiving the highest number of orders compared to other types of restaurants.
@@ -74,7 +74,7 @@ plt.show()
 ```
 
 ### Results
-![Typeof_Restaurants_Voted](images\restaurant_votes.png)
+![Typeof_Restaurants_Voted](images/restaurant_votes.png)
 
 ### Insights
 - Dining restaurants are the most preferred among customers, whereas buffets are the least preferred.
@@ -89,7 +89,7 @@ plt.show()
 ```
 
 ### Results
-![ratings_distribution](images\ratings_distribution.png)
+![ratings_distribution](images/ratings_distribution.png)
 
 ### Insights
 - Most restaurants have received ratings between 3.75 and 4.5, indicating that the majority of customers rate their experience positively.
@@ -108,7 +108,7 @@ plt.show()
 ```
 
 ### Results
-![approx_cost](images\approx_cost_per_couple.png)
+![approx_cost](images/approx_cost_per_couple.png)
 
 ### Insights
 - The majority of couples prefer restaurants with an approximate cost of Rs 300.
@@ -123,7 +123,7 @@ plt.show()
 ```
 
 ### Results
-![popular_orders_boxplot](images\popular_orders_boxplot.png)
+![popular_orders_boxplot](images/popular_orders_boxplot.png)
 
 ### Insights
 - Offline orders receive lower ratings in comparision to online ratings.
@@ -141,7 +141,7 @@ plt.show()
 ```
 
 ### Results
-![zomato_heatmap](images\zomato_heatmap.png)
+![zomato_heatmap](images/zomato_heatmap.png)
 
 ### Insights
 - Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that customers prefer ordering in person at restaurants, but prefer ordering online from cafes.
